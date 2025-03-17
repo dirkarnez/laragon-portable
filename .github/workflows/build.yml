@@ -53,7 +53,7 @@ jobs:
           
       - shell: cmd
         run: |
-          curl https://mirrors.xtom.com.hk/mariadb///mariadb-10.11.10/winx64-packages/mariadb-10.11.10-winx64.zip -L --output mariadb-10.11.10-winx64.zip &&^
+          curl https://archive.mariadb.org/mariadb-10.11.10/winx64-packages/mariadb-10.11.10-winx64.zip -L -O -J &&^
           7z.exe x mariadb-10.11.10-winx64.zip -o"laragon\bin\mysql"
           
       - name: Archive Release
