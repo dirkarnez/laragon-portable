@@ -12,4 +12,5 @@ laragon-portable-env
 
 
 ### PHP
-- [php-8.0.0-Win32-vs16-x64.zip](https://windows.php.net/downloads/releases/archives/php-8.0.0-Win32-vs16-x64.zip)
+- https://windows.php.net/downloads/releases/archives/
+  - [php-8.0.0-Win32-vs16-x64.zip](https://windows.php.net/downloads/releases/archives/php-8.0.0-Win32-vs16-x64.zip)
