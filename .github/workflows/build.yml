@@ -47,7 +47,7 @@ jobs:
 
       - shell: cmd
         run: |
-          curl https://windows.php.net/downloads/releases/php-8.4.0-Win32-vs17-x64.zip -L -O -J &&^
+          curl https://windows.php.net/downloads/releases/archives/php-8.4.0-Win32-vs17-x64.zip -L -O -J &&^
           7z.exe x php-8.4.0-Win32-vs17-x64.zip -o"laragon\bin\php\php-8.4.0-Win32-vs17-x64"
 
           
