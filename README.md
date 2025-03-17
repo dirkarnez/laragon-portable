@@ -14,3 +14,7 @@ laragon-portable-env
 ### PHP
 - https://windows.php.net/downloads/releases/archives/
   - [php-8.0.0-Win32-vs16-x64.zip](https://windows.php.net/downloads/releases/archives/php-8.0.0-Win32-vs16-x64.zip)
+
+### MariaDB
+- https://archive.mariadb.org/mariadb-10.11.10/winx64-packages/
+  - https://archive.mariadb.org/mariadb-10.11.10/winx64-packages/mariadb-10.11.10-winx64.zip
